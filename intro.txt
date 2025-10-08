@@ -1,0 +1,15 @@
+Tôi là Đoàn Vĩnh Hưng.
+ Sinh viên năm cuối, ngành CNTT.
+ Quê ở Đồng Tháp.
+ . Rất thích học lập trình và sử dụng Git.
+ . Mục tiêu sắp tới là hoàn thành đồ án tốt nghiệp.
+ 
+ Sở thích:
+ - Đọc sách khoa học
+ - Chơi game chiến thuật
+ - Chụp ảnh
+ 
+ Kỹ năng:
+ - Python
+ - HTML/CSS
+ - Git cơ bản
