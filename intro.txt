@@ -13,3 +13,10 @@ Tôi là Đoàn Vĩnh Hưng.
  - Python
  - HTML/CSS
  - Git cơ bản
+
+ Kế hoạch học tập:
+# 1. Học chuyên sâu về MERN stack trong 3 tháng.
+# 2. Hoàn thành 2 dự án cá nhân sử dụng các công nghệ đã học.
+# 3. Đọc thêm 5 cuốn sách về thuật toán.
+# 4. Tham gia khóa học tiếng Anh chuyên ngành.
+# 5. Luyện tập Git thường xuyên với các dự án thực tế.
