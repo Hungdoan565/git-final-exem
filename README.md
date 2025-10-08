@@ -1,0 +1,5 @@
+ - Tên đề thi: Git Final Exam.
+ - Họ tên: Đoàn Vĩnh Hưng
+ - MSSV: 223277 
+ - ngày 8/10/2025.
+ - Mục tiêu của tôi là nắm vững các thao tác cơ bản và nâng cao của Git, bao gồm quản lý phiên bản, làm việc với branch, giải quyết xung đột, và sử dụng các lệnh khôi phục lịch sử như reset và revert.
